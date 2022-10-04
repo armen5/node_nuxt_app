@@ -1,0 +1,16 @@
+[
+  {
+    "name": "user-user",
+    "path": "/user/:user?",
+    "component": "/home/globit/Desktop/node_nuxt_app/client/pages/user/_user.vue",
+    "chunkName": "pages/user/_user",
+    "_name": "_08f3c878"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/globit/Desktop/node_nuxt_app/client/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_dac492a0"
+  }
+]
